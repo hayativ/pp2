@@ -1,0 +1,1 @@
+# c. Write a program to create an iterator that yields the squares of the numbers in a list.

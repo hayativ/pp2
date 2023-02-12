@@ -1,0 +1,1 @@
+# b. Write a program to create an iterator that yields the first n elements of a list.

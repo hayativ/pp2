@@ -1,0 +1,1 @@
+# e. Write a program to create an iterator that yields the elements of a list in reverse order.
